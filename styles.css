@@ -13,6 +13,19 @@ h1 {
     background-color: aqua;
     color: brown;
     margin: 50px 500px;
+    border: solid;
+    border-color: brown;
+}
+
+h2 {
+
+    padding: 6px;
+    border: solid;
+    border-color: red;
+    background-color: yellow;
+    text-align: center;
+
+
 }
 
 h3 {
@@ -21,4 +34,16 @@ h3 {
     background-color: brown;
     color: aqua;
     margin-right: 1600px;
+    border: solid;
+    border-color: aqua;
 }
+
+.donut-home {
+
+    padding: 5px;
+    background-color: rgb(153, 150, 1);
+    color: white;
+    border: solid;
+    border-color: black;
+}
+

@@ -1,2 +1,2 @@
 # odin-recipes
-<!-- Well this is it, my first project, ive learned the basics of html and im ganna demonstrat it here, and this will be the first real challenge, in this project im ganna make a recipe website which will use the paragraph and link and images and some lists -->
+**Well this is it, my first project, ive learned the basics of html and im ganna demonstrat it here, and this will be the first real challenge, in this project im ganna make a recipe website which will use the paragraph and link and images and some lists**
