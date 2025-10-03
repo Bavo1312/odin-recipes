@@ -47,3 +47,43 @@ h3 {
     border-color: black;
 }
 
+.unli {
+
+    background-color: coral;
+    padding: 12px 24px;
+    border: solid;
+    border-color: blueviolet;
+}
+
+#red {
+    
+    background-color: red;
+}
+
+#green {
+
+    background-color: green;
+}
+
+#blue {
+
+    background-color: blue;
+}
+
+#red, #green, #blue {
+
+    padding: 6px;
+    color: white;
+    border: solid;
+    border-color: black;
+}
+
+.orli {
+
+    background-color: chartreuse;
+    text-align: center;
+    margin: 50px 270px;
+    padding: 20px 34px;
+    border: solid;
+    border-color: darkgoldenrod;
+}
