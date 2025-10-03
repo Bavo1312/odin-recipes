@@ -1,0 +1,23 @@
+/* Styles.css */
+
+body {
+
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+
+    text-align: center;
+    padding: 12px;
+    background-color: aqua;
+    color: brown;
+    margin: 50px 500px;
+}
+
+h3 {
+
+    padding: 8px;
+    background-color: brown;
+    color: aqua;
+}
